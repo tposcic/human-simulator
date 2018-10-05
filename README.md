@@ -1,0 +1,1 @@
+A small script trying to simulate humans from birth till death.
